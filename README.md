@@ -28,13 +28,9 @@
 
 
 ### 📈 My Github
-<section style="display: flex;">
-  <div style="flex: 1;">
-  ![tcly861204's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcly861204&show_icons=true&theme=tokyonight&count_private=true)
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcly861204&show_icons=true&layout=compact&theme=dracula"/>
-  </div>
+<section>
+  <img title="tcly861204's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tcly861204&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcly861204&show_icons=true&layout=compact&theme=dracula"/>
 </section>
 
 
