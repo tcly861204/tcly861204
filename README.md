@@ -28,8 +28,15 @@
 
 
 ### 📈 My Github
+<section style="display: flex;">
+  <div style="flex: 1;">
+  ![tcly861204's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcly861204&show_icons=true&theme=tokyonight&count_private=true)
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcly861204&show_icons=true&layout=compact&theme=dracula"/>
+  </div>
+</section>
 
-![tcly861204's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcly861204&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **tcly861204/tcly861204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,7 +52,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br />
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcly861204&show_icons=true&layout=compact&theme=dracula"/>
-</div>
+
