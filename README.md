@@ -45,3 +45,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+<div>
+  <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=tcly861204&show_icons=true&theme=dracula" />
+  <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcly861204&show_icons=true&layout=compact&theme=dracula"/>
+</div>
