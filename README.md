@@ -1,4 +1,6 @@
+
 ### Hi there 👋
+<img align="right" alt="GIF" width="250px" src="./coding.gif" />
 ### 👨🏻‍💻 Hi there！I'm [tcly861204](https://tcly861204.github.io) 👋
 
 ### ⚒️ Languages and Tools:
