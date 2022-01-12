@@ -1,11 +1,10 @@
 
 ### Hi there 👋
-<img align="right" alt="GIF" width="250px" src="./coding.gif" />
 ### 👨🏻‍💻 Hi there！I'm [tcly861204](https://tcly861204.github.io) 👋
 
-1. 🌱 学习react
+<!-- 1. 🌱 学习react
 2. 🔭 深入vue3
-3. ...
+3. ... -->
 
 ### ⚒️ Languages and Tools:
 
