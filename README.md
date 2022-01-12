@@ -2,8 +2,11 @@
 ### Hi there 👋
 <img align="right" alt="GIF" width="250px" src="./coding.gif" />
 ### 👨🏻‍💻 Hi there！I'm [tcly861204](https://tcly861204.github.io) 👋
-- 🌱 学习react <br />
-- 🔭 深入vue3  <br />
+
+1. 🌱 学习react
+2. 🔭 深入vue3
+3. ...
+
 ### ⚒️ Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
