@@ -15,6 +15,7 @@
 ![NodeJs](https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=Node.js&logoColor=%23ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000?style=for-the-badge&logo=Next.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=%23ffffff)
+![MongoDB](https://img.shields.io/badge/-mongodb-%23031d30?style=for-the-badge&logo=mongodb)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
