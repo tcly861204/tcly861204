@@ -37,7 +37,7 @@
   <img height="180" title="tcly861204's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tcly861204&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcly861204&show_icons=true&layout=compact&theme=dracula"/>
 </section>
-
+<img src="https://github-readme-stats.vercel.app/api?username=tcly861204&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 
 <!--
 **tcly861204/tcly861204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
