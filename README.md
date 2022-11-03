@@ -38,9 +38,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcly861204&show_icons=true&layout=compact&theme=dracula"/>
 </section>
 
-<section align="center">
-  <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=tcly861204&include_all_commits=true&hide_border=true&theme=dark"/>
-</section>
 
 
 <!--
